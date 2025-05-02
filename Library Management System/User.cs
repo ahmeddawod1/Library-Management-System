@@ -35,7 +35,7 @@ namespace Library_Management_System
 
         public override void displayinfo()
         {
-            Console.WriteLine($" id : {id} name: {name}");
+            Console.WriteLine($" id : {id} name :  {name}");
 
         }
         public void Display_Brrowed_Books()
